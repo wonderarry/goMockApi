@@ -1,0 +1,31 @@
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Compiled Object files, Static and Dynamic libs
+*.o
+*.a
+*.lib
+
+# Folders
+_bin/
+_obj/
+_out/
+
+# Dependency directories
+/vendor/
+/go.sum
+
+# VSCode specific files
+.vscode/
+.settings/
+*.code-workspace
+
+# Application binaries
+*.app
+
+# Compiled files
+*.out
